@@ -1,0 +1,204 @@
+.dt{
+    font-size: 13px;    
+    padding-left: 20px;
+}
+.name{
+   font-size: 40px;
+    padding-left: 20px;
+    color: rgb(30, 30, 151);
+    padding-top: 5px;
+}
+.box{
+   margin-left: 19px;
+   
+}
+.out{
+    width: 450px;
+}
+
+.giff{
+    width:190px;
+    height: 190px;
+    margin-top: 0px;
+    margin-left: 25px;
+}
+.split {
+    height: 100%;
+    position: fixed;
+    top: 0;
+    padding-top: 20px;
+  }
+  
+  /* Control the left side */
+  .left {
+    left: 0;
+    width: 75%;
+    background-color: rgb(236, 245, 254);
+  }
+  
+  /* Control the right side */
+  .right {
+    right: 0;
+    width: 25%;
+    background-color: rgb(184, 244, 226)
+  }
+  .imafield{
+    padding: 50px;
+    border: 2px solid rgb(159, 236, 213);
+    margin-top: 28px;
+    margin-right: 20px;
+    margin-left: 25px;
+    border-radius: 15px;
+    background-color: #f6f9f8;
+    height: 350px;
+    padding-top: 10px;
+    padding-left: 10px;
+  }
+  .hr{
+    background-color: grey;
+   
+   padding-left:40px ;
+   padding-right: 28px;
+    width: 250px;
+    height: 2px;
+  }
+  .dash{
+    font-size: 60px;
+    padding-left: 50px;
+  }
+  .imgdwn{
+    padding: 50px;
+    border: 2px solid rgb(159, 236, 213);
+    margin-top: 9px;
+    margin-right: 20px;
+    margin-left: 25px;
+    border-radius: 15px;
+    background-color: #f6f9f8;
+    height: 130px;
+    padding-top: 8px;
+    padding-left: 10px;
+  }
+  .let{
+    font-size: 20px;
+  }
+  .imgbox{
+    width: 90px;
+    height: 100px;
+    margin-left: 18px;
+    margin-top: 30px;
+    border-radius: 8px;
+    color: gray;
+  }
+  .lbx{
+    
+    width: 440px;
+    height: 410px;
+    border-radius: 10px;
+    margin-left: 20px;
+    margin-top: 20px;
+    background-color: white;
+  }
+  .first{
+    margin-top: 15px;
+    margin-left: 10px;
+  }
+  .sunrise{
+    width: 30px;
+    height: 30px;
+    margin-left: 55px;
+
+  }
+  .sunset{
+    width: 30px;
+    height: 30px;
+    padding-left: 5px;
+  }
+  .rtbx{   
+    width : 500px;
+    height: 410px;
+    border-radius: 50px;
+    margin-left: 30px;
+    box-shadow: 10px 10px 10px rgba(123, 125, 125, 0.9),-1px  5px rgb(123, 125, 125, 0.9) ;
+  }
+  .word{
+    font-size: 30px;
+  }
+  .sunrise2{
+    width: 70px;
+    height: 70px;
+    margin-left: 60px;
+    margin-top: 1px;
+    
+  }
+  .sbox{
+    width: 150px;
+    height: 35px;
+    background-color: white;
+    display: inline-flex;
+    margin-left: 100px;
+    margin-top: 20px;
+    border-radius: 5px;
+    box-shadow: 3px 3px 3px rgb(95, 96, 97);
+  }
+  .sbox1{
+    width: 150px;
+    height: 35px;
+    background-color: white;
+    display: inline-flex;
+    margin-left: 20px;
+    margin-top: 20px;
+    border-radius: 5px;
+    box-shadow: 3px 3px 3px rgb(95, 96, 97);
+  }
+  .sbox2{
+    width: 140px;
+    height: 35px;
+    display: inline-flex;
+    background-color: white;   
+    margin-left: 115px;
+    margin-top: 20px;
+    box-shadow: 3px 3px 3px rgb(95, 96, 97);
+    border-radius: 5px;
+  }
+  .sbox3{
+    width: 140px;
+    height: 35px;
+    background-color: white;    
+    margin-left: 10px;
+    margin-top: 20px;
+    box-shadow: 3px 3px 3px rgb(95, 96, 97);
+    border-radius: 5px;
+  }
+  .sbox4{
+    width: 100px;
+    height: 35px;
+    background-color: white;    
+    margin-left: 150px;
+    margin-top: 20px;
+    box-shadow: 3px 3px 3px rgb(95, 96, 97);
+    border-radius: 5px;
+  }
+  .sbox5{
+    width: 100px;
+    height: 35px;
+    background-color: white;    
+    margin-left: 10px;
+    margin-top: 20px;
+    box-shadow: 3px 3px 3px rgb(95, 96, 97);
+    border-radius: 5px;
+  }
+  .sbox6{
+    width: 150px;
+    height: 35px;
+    background-color: white;    
+    margin-left: 180px;
+    margin-top: 20px;
+    box-shadow: 3px 3px 3px rgb(95, 96, 97);
+    border-radius: 8px;
+  }
+  .sty{
+    margin-left: 5px;
+    margin-top: 10px;
+    
+  }
+  
